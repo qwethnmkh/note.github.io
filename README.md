@@ -97,8 +97,7 @@
 </head>
 <body>
   <div class="container">
-   <a href="the.com" target="_blank"> <h1>Bitcoin Price Note</h1>
-     <\a>
+   <h1>Bitcoin Price Note</h1>
     <img src="https://i.postimg.cc/MGZ0HNJr/imagine-Ai.png" width="330" height="290">
     <button id="cutton" onclick="confirmReset()">Reset</button>
     <form id="priceForm">
