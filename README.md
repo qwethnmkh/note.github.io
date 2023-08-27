@@ -70,16 +70,19 @@
       width: 100%;
     }
 
-    th, td {
+    td {
       padding: 12px 8px;
       text-align: left;
       border-bottom: 1px solid #ddd;
+      width: 170px;
     }
 
     th {
       background-color: #bebebe;
       font-weight: bold;
       color: orange;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
     }
 
     #priceTable {
