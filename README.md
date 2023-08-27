@@ -84,7 +84,7 @@
 
     #priceTable {
       background: #bfbfbf;
-      width: 500px;
+      width: 300px;
     }
     
     #cutton {
