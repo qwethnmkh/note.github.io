@@ -84,7 +84,7 @@
 
     #priceTable {
       background: none;
-      width: 390px;
+      width: 380px;
     }
     
     #cutton {
@@ -97,7 +97,8 @@
 </head>
 <body>
   <div class="container">
-    <h1>Bitcoin Price Note</h1>
+   <a href="the.com" target="_blank"> <h1>Bitcoin Price Note</h1>
+     <\a>
     <img src="https://i.postimg.cc/MGZ0HNJr/imagine-Ai.png" width="330" height="290">
     <button id="cutton" onclick="confirmReset()">Reset</button>
     <form id="priceForm">
