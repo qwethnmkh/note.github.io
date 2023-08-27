@@ -18,7 +18,7 @@
     }
 
     .container {
-      max-width: 600px;
+      width: 390px;
       margin: 0 auto;
       background-color: #f1f1f1;
       border-radius: 4px;
