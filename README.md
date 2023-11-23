@@ -20,7 +20,7 @@
     .container {
       width: 390px;
       margin: 0 auto;
-      background-color: #f1f1f1;
+      background-color: #f2f2f2;
       border-radius: 4px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       padding: 20px;
